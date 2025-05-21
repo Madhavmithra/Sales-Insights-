@@ -15,6 +15,7 @@ Sales-Insights
 • Tech Stack- MySQL,PowerBI,MS SQL Server,Ms Excel
 
 I have attached the project folder in the repository. 
+
 ![image](https://github.com/user-attachments/assets/9715cc70-0f84-478b-ade3-2610dd28f550)
 ![image](https://github.com/user-attachments/assets/52a2ee26-4600-4b2c-9291-cc8d72c7e826)
 ![image](https://github.com/user-attachments/assets/c7bfa2b3-1426-48dd-9e0a-4f9f37552b27)
