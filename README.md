@@ -1,6 +1,6 @@
 # Sales-Insights-
 Sales-Insights
-• Utilized advanced data analysis techniques on Atliq Hardware Company’s dataset to uncover actionable insights for sales decision-making, automating data collection and aggregation to reduce manual effort.
+• Utilized advanced data analysis techniques on  fictional company, At/ix,  dataset to uncover actionable insights for sales decision-making, automating data collection and aggregation to reduce manual effort.
 
 • Implemented customer segmentation strategies using SQL and Excel, boosting sales efficiency for key products (”Prod159,” ”Prod053,” ”Prod102”).
 
